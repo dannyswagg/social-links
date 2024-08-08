@@ -40,7 +40,7 @@ a {
   margin: 25px 0;
   color: hsl(0, 0%, 100%);
 }
-.card-body h4 {
+.card-body h3 {
   font-weight: 600;
   font-size: 0.7rem;
   color: hsl(75, 94%, 57%);
