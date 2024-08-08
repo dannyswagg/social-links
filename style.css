@@ -76,7 +76,7 @@ ul {
 /* Media Queries */
 @media screen and (max-width: 600px) {
   .card {
-    width: 90%;
+    width: 20rem;
     padding: 20px;
   }
 }
